@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#canvas-container {
+  width: 100dvw;
+  height: 100dvh;
+  background-color: #eee;
+}
